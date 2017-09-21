@@ -1,0 +1,10 @@
+{
+    "from": "sidny.ntt",
+    "name": "Zero",
+    "desc": "The Zero Entity is the First SIDNY Entity.",
+    "ntts": [],
+    "seqs": [
+        "sequences/ideas/ideas.seq"
+    ],
+    "cont": null
+}
