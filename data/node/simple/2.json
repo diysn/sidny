@@ -1,0 +1,7 @@
+{
+  "msg": "This is the second message.",
+  "links": [
+    {"rel": "author",
+     "href": "../author.json"}
+  ]
+}

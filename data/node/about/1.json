@@ -1,0 +1,7 @@
+{
+  "msg": "SIDNY is a DIY Social Network. It's primary focus is on user control.",
+  "links": [
+    {"rel": "author",
+     "href": "../author.json"}
+  ]
+}

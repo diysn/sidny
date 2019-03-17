@@ -1,0 +1,14 @@
+{
+  "name": "Sidny",
+  "msg": "A DIY Social Network (a D.I.Y. S.N. -> SIDNY).",
+  "links": [
+    {
+      "rel": "icon",
+      "href": "https://raw.githubusercontent.com/googlei18n/noto-emoji/bf295c4580e51ae98b9ed4399bbf72a31c1cc525/svg/emoji_u263a.svg",
+    },
+    {
+      "rel": "item",
+      "href": "listOfLists.json"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "links": [
+    {
+      "rel": "author",
+      "href": "../author.json"
+    },
+    {
+      "rel": "up",
+      "href": "../listOfLists.json"
+    },
+    {
+      "rel": "item",
+      "href": "1.json"
+    },
+    {
+      "rel": "item",
+      "href": "2.json"
+    },
+    {
+      "rel": "item",
+      "href": "3.json"
+    }
+  ]
+}

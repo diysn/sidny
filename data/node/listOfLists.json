@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "rel": "author",
+      "href": "author.json"
+    },
+    {
+      "rel": "item",
+      "href": "simple/index.json"
+    },
+    {
+      "rel": "item",
+      "href": "about/index.json"
+    }
+  ]
+}
