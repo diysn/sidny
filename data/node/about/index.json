@@ -1,5 +1,6 @@
 {
-  "msg": "Messages describing what SIDNY is.",
+  "name": "About Sidny",
+  "msg": "Messages describing what Sidny is.",
   "links": [
     {
       "rel": "author",
