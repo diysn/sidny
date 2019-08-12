@@ -7,8 +7,8 @@
       "href": "../author.json"
     },
     {
-      "rel": "up",
-      "href": "../listOfLists.json"
+      "rel": "icon",
+      "href": "../../images/info.png"
     },
     {
       "rel": "item",

@@ -1,5 +1,5 @@
 {
-  "msg": "This is the second message.",
+  "msg": "By making things as simple as they can reasonably be, it should be easier to take control.",
   "links": [
     {"rel": "author",
      "href": "../author.json"}

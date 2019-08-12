@@ -7,10 +7,6 @@
       "href": "../author.json"
     },
     {
-      "rel": "up",
-      "href": "../listOfLists.json"
-    },
-    {
       "rel": "item",
       "href": "1.json"
     },
